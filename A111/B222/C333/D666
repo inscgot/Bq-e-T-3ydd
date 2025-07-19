@@ -1,4 +1,4 @@
-print("https://github.com/inscgot/Bq/encrypted2")
+print("https://github.com/inscgot/Bq/encrypted3")
 
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Xcrobix/X/refs/heads/main/hopinh"))()
